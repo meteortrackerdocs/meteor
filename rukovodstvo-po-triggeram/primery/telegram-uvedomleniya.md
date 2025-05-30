@@ -2,7 +2,7 @@
 
 Документация к Telegram доступна в ресурсе:
 
-{% embed url="https://core.telegram.org/bots/api#authorizing-your-bot" %}
+[https://core.telegram.org/bots/api#authorizing-your-bot](https://core.telegram.org/bots/api#authorizing-your-bot)
 
 Проверочная ссылка на валидность токена и идентификатора чата telegram:
 
