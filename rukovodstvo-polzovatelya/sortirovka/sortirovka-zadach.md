@@ -30,7 +30,7 @@ icon: square-v
 
 <figure><img src="../../.gitbook/assets/image (339).png" alt="" width="563"><figcaption></figcaption></figure>
 
-В режиме ручной сортировки при наведении курсора на задачу слева появляется иконка ![image.png](https://docs.u-meteor.ru/uploads/images/gallery/2024-03/scaled-1680-/Ck2image.png). При клике на эту иконку задачу можно перетягивать выше и ниже по списку.
+В режиме ручной сортировки при наведении курсора на задачу слева появляется иконка ![](<../../.gitbook/assets/image (1160).png>). При клике на эту иконку задачу можно перетягивать выше и ниже по списку.
 
 <figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ icon: square-v
 
 <figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-В режиме ручной сортировки при наведении курсора на задачу слева появляется иконка ![image.png](https://docs.u-meteor.ru/uploads/images/gallery/2024-03/scaled-1680-/Ck2image.png). При клике на эту иконку задачу можно перетягивать выше и ниже по списку. Также вы можете выделить несколько задач и перетащить их на требуемое место.
+В режиме ручной сортировки при наведении курсора на задачу слева появляется иконка ![](<../../.gitbook/assets/image (1161).png>). При клике на эту иконку задачу можно перетягивать выше и ниже по списку. Также вы можете выделить несколько задач и перетащить их на требуемое место.
 
 <figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
