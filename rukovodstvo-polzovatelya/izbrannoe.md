@@ -67,7 +67,7 @@ icon: square-v
 
 * для задачи — в верхнем навигационном меню:
 
-<figure><img src="../.gitbook/assets/image (1055).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1159).png" alt=""><figcaption></figcaption></figure>
 
 * для вида — в контекстном меню:
 
