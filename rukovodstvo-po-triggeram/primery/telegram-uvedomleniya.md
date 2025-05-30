@@ -6,11 +6,15 @@
 
 Проверочная ссылка на валидность токена и идентификатора чата telegram:
 
-https://api.telegram.org/\<bot\_token>/channels.getMessages?channel=\<channel\_id>
+```
+https://api.telegram.org/<bot_token>/channels.getMessages?channel=<channel_id>
+```
 
 Проверочная ссылка на валидность токена:
 
-https://api.telegram.org/\<bot\_token>/getme
+```
+https://api.telegram.org/<bot_token>/getme
+```
 
 ## Отправка сообщения в telegram-канал при создании задачи
 
