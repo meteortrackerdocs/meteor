@@ -85,4 +85,4 @@ icon: square-v
 
 Удаление возможно, только если еще не созданы задачи данного типа. В противном случае система выдаст ошибку:
 
-![](https://docs.u-meteor.ru/uploads/images/gallery/2024-05/scaled-1680-/CpAimage.png)
+<figure><img src="../../.gitbook/assets/image (1162).png" alt=""><figcaption></figcaption></figure>
