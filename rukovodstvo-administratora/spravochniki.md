@@ -24,17 +24,17 @@ icon: square-v
 
 В разделе **Справочники** выберите один из справочников:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне отобразится список всех значений у справочника.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Справочник "Категории документов"
 
 Категории документов помогают организовать хранение файлов в проектах, в [инструменте "Документы"](../rukovodstvo-polzovatelya/dokumenty.md).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с категориями в списке всех значений:
 
@@ -91,7 +91,7 @@ icon: square-v
 
 [Приоритеты задач](../rukovodstvo-polzovatelya/zadachi/) помогают команде определить порядок выполнения работ, выделяя наиболее срочные и важные задачи для эффективного распределения времени и ресурсов.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с приоритетами в списке всех значений:
 
@@ -149,7 +149,7 @@ icon: square-v
 
 Выбирайте [виды деятельности при отметке времени](../rukovodstvo-polzovatelya/vremya-i-zatraty/#uchyot-vremeni) по задаче и анализируйте временные затраты по каждому виду.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с видами деятельности в списке всех значений:
 

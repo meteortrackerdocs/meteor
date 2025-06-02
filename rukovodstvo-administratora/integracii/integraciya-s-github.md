@@ -37,7 +37,7 @@ description: >-
 
     &#x20;_(Администрирование -> Пользователи и права -> Роли -> Конкретная роль -> раздел "Задачи")_
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd4uZjGBCeGuhv46OW2favKAy07FMOPAY62xKLC5514b2UPS-XTvGldAygZkM8d-y8PTU6L752khHil22RWtnAWK_B-nB3Pzmjsx_RCkz6scq6FFoDx9Wq6hR7OInI1HBitx5-qLg?key=yvs9BW-M6yN5IDhNKDHndYGb" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 2.  Создайте [пользователя](../polzovateli-zapolniteli-i-gruppy/polzovateli.md) для интеграции
 
@@ -46,7 +46,7 @@ description: >-
 
     _(Администрирование -> Пользователи и права -> Пользователи)_
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbQFQzgftMFkknliuIF9SjiDgb9wNjxB2YTNLpwnzAyrbgQlaIiv4ZKi8fSmTNLA0V405b3wzYoT0Lhxea7kq2SqftS498BIidLMTBX-FqAg-bpZVoTeDdbkHscGq6j8fb6mRngw?key=yvs9BW-M6yN5IDhNKDHndYGb" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Сгенерируйте API-токен для этого пользователя (он понадобится вам на стороне GitHub). Для генерации токена необходимо:
    * войдите в систему под учётной записью нового пользователя.
