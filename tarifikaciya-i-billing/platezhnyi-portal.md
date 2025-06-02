@@ -13,17 +13,17 @@
 
 ## Как попасть на платежный портал
 
-Откройте информационное окно “Биллинг” (у вас должен быть [доступ к биллингу](billing.md#dostup-k-billingu)). Для этого кликните по иконке рубля, которая находится рядом с иконкой профиля.&#x20;
+Откройте информационное окно "**Биллинг**" (у вас должен быть [доступ к биллингу](billing.md#dostup-k-billingu)). Для этого кликните по иконке рубля, которая находится рядом с иконкой профиля.&#x20;
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxrgSWFbGN0SSYE5rqjqwb7ld_y-DJkNI_d0ESl7tetUWuRxkv-_vsdYPwo7wSmDTtdVihlkefbXtaU2G7TYkFEtkwOXP1e0Dno6IwcDAs1IEX4i_bNFhTbX-1DEjLC5rdWCHr?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-В открывшемся окне найдите “Платежный портал” и нажмите кнопку “Перейти”.
+В открывшемся окне найдите "**Платежный портал**" и нажмите кнопку "**Перейти**".
 
-<figure><img src="../.gitbook/assets/image (885).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр баланса лицевого счета
 
-Лицевой счет — это виртуальный кошелек, с помощью которого осуществляется оплата услуг. В течение платежного периода средства списываются с лицевого счета.
+**Лицевой счет** — это виртуальный кошелек, с помощью которого осуществляется оплата услуг. В течение платежного периода средства списываются с лицевого счета.
 
 **Пример**
 
@@ -46,23 +46,23 @@
 3. Общее количество использованных кредитов.\
    Это сумма кредитов, списанных с лицевого счета для оплаты услуг.&#x20;
 
-<figure><img src="../.gitbook/assets/image (886).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Пополнение лицевого счета
 
-Чтобы пополнить лицевой счет  нажмите кнопку “Пополнить” в разделе “Лицевой счет”
+Чтобы пополнить лицевой счет  нажмите кнопку "**Пополнить**" в разделе "**Лицевой счет**":
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7CCVHAqYXeIFOFEEGSYLmRqjqH_aZAesmh-45WeMyE392rZZ0NNC24pLyAKzZhbkep21G_GUI7GwbrfeglIG9ChQPpR2u-IptOBDzk1qEyeJOwxFRS-PkT1cMnzutAgQw1gOM2g?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-В открывшемся окне введите сумму пополнения и нажмите кнопку “Пополнить”. 1 кредит = 1 рублю.
+В открывшемся окне введите сумму пополнения и нажмите кнопку "**Сформировать счёт**". 1 кредит = 1 рублю.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdHBL9jc1Iqe80f6v_zYsczmRLSfrTPGo2_o-YE7tMYsxjeR3lXiFfHG78yWP9oCDeXB-a-wNWcaoo8c8hRD9WwXfvXLz0nJTburk5Bpm0iypV5nnlSm-2Z5o5ZQjpdXdFThJs?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-После нажатия кнопки «Пополнить» будет автоматически сформирован счет на сумму пополнения. Счета на пополнение не влияют на показатель «Общая сумма выставленных счетов».
+После нажатия кнопки "**Сформировать счёт**" будет автоматически сформирован счет на сумму пополнения. Счета на пополнение не влияют на показатель "**Общая сумма выставленных счетов**".
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYOcDU7VkvYu_FxvFOrzFQx-vTmwoPKAHjAQiVGk4uU3pvzMyDWhuOelwNr2l5HaaTv32RFPAklzfGid0NpBX6JEL4DapOjENGCCLbqf8r_FgGILw_Hk4C-l-b4yyVW3juo24JLA?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-Оплатите счет [онлайн через платежную систему](platezhnyi-portal.md#oplata-scheta-onlain-cherez-platezhnuyu-sistemu) или [скачайте его ](platezhnyi-portal.md#skachivanie-scheta-na-oplatu)для оплаты в интернет-банке или оффлайн.
+Оплатите счет [онлайн через платежную систему](platezhnyi-portal.md#oplata-scheta-onlain-cherez-platezhnuyu-sistemu) или [скачайте его](platezhnyi-portal.md#skachivanie-scheta-na-oplatu) для оплаты в интернет-банке или оффлайн.
 
 ## Просмотр тарифного плана
 
@@ -76,17 +76,17 @@
   * Для стандартной подписки — 1-е число следующего месяца.
   * Для годовой подписки — 1-е число месяца, следующего за месяцем окончания текущей подписки.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHinhLKnHuzDZADH6RfrPaQqQzseHDcURU2gfCfgBqATSUxXeGOD_uINaT8q5-txndMPELswdscv-0BJgJeginMDBk0UrmUyi66iOTbsV456ZZGpeenWXmoGAUNdT0yLx3sYQekw?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр использования (платежных метрик)
 
 В этом разделе представлена информация о значениях [платежных метрик](billing.md#platezhnye-metriki), на основе которых рассчитывается стоимость использования METEOR Cloud за расчётный период.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcL_AFembHFsz_U-hXf7NGib7vkLalc31PEowFlAOABEGBwCRP8MJiOvhwg08pmYNGjBoPMBmEfBoe6GzbiysLm7T1UjV53XMY2YEGuTEc1tBhMRAG-1PLdZR2q_OInxzCrDcgs?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-В открывшемся окне просмотрите информацию по платежным метрикам за текущий расчетный период.&#x20;
+В открывшемся окне просмотрите информацию по платежным метрикам за текущий расчетный период.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeO0TQi8nE_H17eK2ov1Ml16276Y9eQPg2wsfy6tX_K37fo297xY5Dr2rtA1MOKPth4NlHfijtaYNS5ymkbrnIknjZxhcXwOD3PqWiJU_mkse_pwg4Oc9RfejEAyNjzDSh-XG9G2w?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр информации о клиенте
 
@@ -122,25 +122,25 @@
 * Адрес фактического местонахождения юридического или физического лица.
 * По умолчанию не заполняется. Для юридических лиц и индивидуальных предпринимателей также рекомендуется заполнить.
 
-<figure><img src="../.gitbook/assets/image (968).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр истории выставления счетов
 
 Этот раздел позволяет удобно отслеживать историю выставления счетов, их текущий статус и детали, связанные с оплатой.
 
-С порядком выставления счетов вы можете ознакомиться в [Правилах тарификации и биллинга](broken-reference).
+С порядком выставления счетов вы можете ознакомиться на странице "[Тарификация и биллинг](./)".
 
 #### Отображаемая информация:
 
 1. Общая сумма выставленных счетов
 
 * Указывается совокупная сумма всех выставленных счетов за использование METEOR.
-* Счета на пополнение лицевого счёта (с типом "Пополнение ЛС") в эту сумму не включаются.
+* Счета на пополнение лицевого счёта (с типом "**Пополнение ЛС**") в эту сумму не включаются.
 
 2. Общая сумма просроченных платежей
 
 * Показывает суммарную задолженность по всем счетам с истёкшим сроком оплаты.
-* Счета на пополнение лицевого счёта (с типом "Пополнение ЛС") в эту сумму не включаются.
+* Счета на пополнение лицевого счёта (с типом "**Пополнение ЛС**") в эту сумму не включаются.
 
 3. Информация по каждому счёту:
 
@@ -155,34 +155,31 @@
 * Статус счёта: Возможные статусы:
   * Неоплаченный:
     * Счёт ожидает оплаты, срок оплаты ещё не истёк.
-    * Статус “Неоплаченный” может быть и у счетов, по которым оплата была произведена, но средства ещё не поступили.
+    * Статус "Неоплаченный" может быть и у счетов, по которым оплата была произведена, но средства ещё не поступили.
   * Оплачено:
     * Счёт полностью оплачен, средства успешно зачислены.
   * Просроченный:
     * Счёт ожидает оплаты, но срок оплаты истёк.
-    * Статус “Просроченный” может быть и у счетов, по которым оплата была произведена, но средства ещё не поступили.
+    * Статус "Просроченный" может быть и у счетов, по которым оплата была произведена, но средства ещё не поступили.
 
 ## Оплата счета онлайн через платежную систему
 
-Чтобы оплатить счет онлайн через платежную систему найдите необходимый счет в разделе “История выставления счетов”. Для удобства воспользуйтесь поиском по дате выставления или номеру счета.&#x20;
+Чтобы оплатить счет онлайн через платежную систему найдите необходимый счет в разделе "**История выставления счетов**". Для удобства воспользуйтесь поиском по дате выставления или номеру счета.&#x20;
 
-Выберите “Оплатить” в контекстном меню счета.&#x20;
+Выберите "**Оплатить**":&#x20;
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1XK2wspCv9-4ScZzvWINaVdkSDTHj0vcPZInfT4tYJnLiQurecwBtaa-I7whI4gkXAZnAcftmAnpZgzyoT8jjQfZ78YcoeVuKj1xQ-aOHyRbTSrHqKasHLvXqdmopwZ84fAPxug?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Вы будете перенаправлены на сервис оплаты Юkassa. Выберите удобный способ оплаты из предложенных и завершите процесс оплаты.
 
-\
-
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFzV59I164hSH6N52Wga8DlMtdS4VvdWbo1UAg92M5cze68Uii7ZxIRta8H1CI5H3CsISZo5XHCKUuJoTW8yfXp2I8Osqh5-vwHe45oyDUehOPXUEUaP1TsJcZfeNePpBuyD-P?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Скачивание счета на оплату
 
-Чтобы скачать счет, найдите необходимый счет в разделе “История выставления счетов”. Для удобства воспользуйтесь поиском по дате выставления или номеру счета.&#x20;
+Чтобы скачать счет, найдите необходимый счет в разделе "**История выставления счетов**". Для удобства воспользуйтесь поиском по дате выставления или номеру счета.&#x20;
 
-Выберите “Скачать счет” в контекстном меню счета.&#x20;
+Выберите "**Скачать счёт**":
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_RI8u1y3PmntAu4A2Wgxp7hYm41RPDZkvI0bHL4L_VBhAJLPM6TELwZkmIu4Zl9GOTy0B4E39kseJaSJM_aUol3odwe1r2HThSFnUJy3J0fS6oSX1oGbK0VV41tbjJFla-eaBGQ?key=5IAqDzsMAwAZKJ2ynnsjMgtL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Сохраните открывшийся документ.
