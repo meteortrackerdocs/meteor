@@ -70,7 +70,7 @@ description: >-
 * URL: https://mycompany.u-meteor.ru/op/webhooks/github?key=ВАШ\_ТОКЕН
 * События: "Send me everything"
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduH99CBjL-eFBHjbxGISgAsBjXWLVmvliAp6LI7kSoAw-8a2yEVBCI-rky2Tfnah1f9z6-gCEfmWdHDjGC9WoY-0G2zA-f_9n0y2sTmQ95wEIbFJBMNd1MQYEWlLESWSCHsjd_?key=yvs9BW-M6yN5IDhNKDHndYGb" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-06-02 в 17.49.38.png" alt=""><figcaption></figcaption></figure>
 
 Интеграция готова к использованию!
 
