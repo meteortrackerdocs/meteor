@@ -28,7 +28,7 @@
     * [Копирование задач](rukovodstvo-polzovatelya/zadachi/kopirovanie-zadach.md)
     * [История по задаче](rukovodstvo-polzovatelya/zadachi/istoriya-po-zadache.md)
     * [Теги](rukovodstvo-polzovatelya/zadachi/tegi.md)
-    * [Даты и продолжительность задач](rukovodstvo-polzovatelya/zadachi/daty-i-prodolzhitelnost-zadach.md)
+    * [Даты и длительность задач](rukovodstvo-polzovatelya/zadachi/daty-i-prodolzhitelnost-zadach.md)
     * [Связи и иерархии задач](rukovodstvo-polzovatelya/zadachi/svyazi-i-ierarkhii-zadach.md)
     * [Учёт прогресса](rukovodstvo-polzovatelya/zadachi/uchyot-progressa.md)
   * [Доски](rukovodstvo-polzovatelya/doski/README.md)
