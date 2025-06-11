@@ -24,30 +24,30 @@ icon: square-v
 
 В разделе **Справочники** выберите один из справочников:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне отобразится список всех значений у справочника.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Справочник "Категории документов"
 
 Категории документов помогают организовать хранение файлов в проектах, в [инструменте "Документы"](../rukovodstvo-polzovatelya/dokumenty.md).
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с категориями в списке всех значений:
 
 * переключатель "Активен" - включить/отключить отображение категории пользователям;
 * переключатель "По умолчанию" - назначить категорию выбираемой по умолчанию при создании документов;
-* изменить порядок отображения категорий в списке (перетаскиванием, потянув за кнопку ![](<../.gitbook/assets/image (5) (1).png>));
+* изменить порядок отображения категорий в списке (перетаскиванием, потянув за кнопку ![](<../.gitbook/assets/image (5) (1) (1).png>));
 * добавить новую категорию.
 
 ### Добавить категорию
 
 Для добавления категории нажмите кнопку "**+ Добавить**":
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне заполните необходимые поля:
 
@@ -57,7 +57,7 @@ icon: square-v
 * Активен - отметьте, чтобы категория сразу стала доступна пользователям;
 * По умолчанию - установите, если категория должна автоматически назначаться новым документам.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Для создания категории воспользуйтесь кнопкой "**Создать**" или "**Ок**" в нижней части окна.
 
@@ -65,39 +65,39 @@ icon: square-v
 
 Откройте необходимую категорию кликом по названию или через кнопку "**Редактировать**" в контекстном меню:
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Копировать категорию
 
 Копировать категорию можно по кнопке "**Копировать**" в контекстном меню в списке:
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Удалить категорию
 
 Для удаления категории в списке всех категорий воспользуйтесь кнопкой "**Удалить**", в контекстном меню:
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее подтвердите действие:
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если категория используется в системе, удаление не возможно, и система уведомит об этом:
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Справочник "Приоритеты задач"
 
 [Приоритеты задач](../rukovodstvo-polzovatelya/zadachi/) помогают команде определить порядок выполнения работ, выделяя наиболее срочные и важные задачи для эффективного распределения времени и ресурсов.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с приоритетами в списке всех значений:
 
 * переключатель "Активен" - включить/отключить отображение приоритета пользователям;
 * переключатель "По умолчанию" - назначить приоритет выбираемый по умолчанию при создании задачи;
-* изменить порядок отображения приоритета в списке (перетаскиванием, потянув за кнопку ![](<../.gitbook/assets/image (5) (1).png>));
+* изменить порядок отображения приоритета в списке (перетаскиванием, потянув за кнопку ![](<../.gitbook/assets/image (5) (1) (1).png>));
 * добавить новый приоритет.
 
 ### Добавить приоритет
@@ -123,19 +123,19 @@ icon: square-v
 
 Откройте необходимый приоритет кликом по названию или через кнопку "**Редактировать**" в контекстном меню:
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Копировать приоритет
 
 Копировать приоритет можно по кнопке "**Копировать**" в контекстном меню в списке:
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Удалить приоритет
 
 Для удаления приоритета в списке воспользуйтесь кнопкой "**Удалить**", в контекстном меню:
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее подтвердите действие:
 
@@ -143,19 +143,19 @@ icon: square-v
 
 Если приоритет используется в системе, удаление не возможно, и система уведомит об этом:
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Справочник "Учёт времени"
 
 Выбирайте [виды деятельности при отметке времени](../rukovodstvo-polzovatelya/vremya-i-zatraty/#uchyot-vremeni) по задаче и анализируйте временные затраты по каждому виду.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с видами деятельности в списке всех значений:
 
 * переключатель "Активен" - включить/отключить отображение вида деятельности пользователям;
 * переключатель "По умолчанию" - назначить вид деятельности выбираемый по умолчанию при отметке времени;
-* изменить порядок отображения вида деятельности в списке (перетаскиванием, потянув за кнопку ![](<../.gitbook/assets/image (5) (1).png>));
+* изменить порядок отображения вида деятельности в списке (перетаскиванием, потянув за кнопку ![](<../.gitbook/assets/image (5) (1) (1).png>));
 * добавить новый вид деятельности.
 
 ### Добавить вид деятельности
@@ -200,5 +200,5 @@ icon: square-v
 
 Если вид деятельности используется в системе, удаление не возможно, и система уведомит об этом:
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
