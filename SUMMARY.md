@@ -89,6 +89,7 @@
     * [Интеграция с GitLab](rukovodstvo-administratora/integracii/integraciya-s-gitlab.md)
     * [Интеграция с GitHub](rukovodstvo-administratora/integracii/integraciya-s-github.md)
     * [Интеграция с mymeet.ai](rukovodstvo-administratora/integracii/integraciya-s-mymeet.ai.md)
+    * [Интеграция с Albato](rukovodstvo-administratora/integracii/integraciya-s-albato.md)
   * [Настройка системы для отправки уведомлений](rukovodstvo-administratora/nastroika-sistemy-dlya-otpravki-uvedomlenii/README.md)
     * [Уведомления в Telegram](rukovodstvo-administratora/nastroika-sistemy-dlya-otpravki-uvedomlenii/uvedomleniya-v-telegram.md)
 * [Руководство по триггерам](rukovodstvo-po-triggeram/README.md)
