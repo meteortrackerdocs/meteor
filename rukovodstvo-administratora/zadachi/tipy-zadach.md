@@ -67,9 +67,9 @@ icon: square-v
 
 ## Настройки рабочего потока
 
-Настройте рабочий поток с нуля или скопируйте его из другого типа задачи во вкладке "[Рабочие потоки](rabochie-potoki.md)".
+Настройте рабочий поток с нуля или скопируйте его из другого типа задачи во вкладке "Рабочие потоки". Подробное описание по настройке можно найти на странице "[Рабочие потоки](rabochie-potoki.md)".
 
-<figure><img src="../../.gitbook/assets/image (1045).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1165).png" alt=""><figcaption></figcaption></figure>
 
 ## Копирование типа задачи
 

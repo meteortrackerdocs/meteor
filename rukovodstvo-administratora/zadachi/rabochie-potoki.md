@@ -29,13 +29,17 @@ icon: square-v
 
 <figure><img src="../../.gitbook/assets/image (979).png" alt=""><figcaption></figcaption></figure>
 
-В разделе **Задачи** выберите пункт "**Рабочие потоки**":
+В разделе **Задачи** выберите пункт "**Типы задач**":
 
-<figure><img src="../../.gitbook/assets/image (614).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1166).png" alt=""><figcaption></figcaption></figure>
 
-В открывшемся окне выберите роль и тип задачи, для которых необходимо настроить рабочий поток и нажмите кнопку "Показать".
+Найдите нужный тип, откройте его и перейдите на вкладку "**Рабочие потоки**",  отобразится рабочий поток для выбранного типа задачи и вашей роли:
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1167).png" alt=""><figcaption></figcaption></figure>
+
+Или воспользуйтесь кнопкой "**Рабочие потоки**" в контекстном меню типа задачи:
+
+<figure><img src="../../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
 
 Если у вас ещё нет типов задач, [создайте их](tipy-zadach.md).
 
@@ -49,66 +53,136 @@ icon: square-v
 
 Все рабочие потоки начинаются с начального статуса "**Новая**". Изменение настроек происходит в [настройках статусов](statusy.md#prosmotr-statusov).
 
-Для добавления недостающего статуса воспользуйтесь кнопкой "**Добавить статус**" в правом углу рабочей зоны:
+Для добавления недостающего статуса воспользуйтесь кнопкой "**Добавить**" в правом углу рабочей зоны:
 
-<figure><img src="../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если у вас ещё нет статусов, то создайте их (описание можно найти на странице "[Статусы](statusy.md)").
 {% endhint %}
 
-Из появившегося меню перетащите в рабочую область необходимый статус:
+В появившемся меню перетащите в рабочую область необходимый статус или кликните на него:
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1170).png" alt=""><figcaption></figcaption></figure>
 
-Добавление переходов делается с помощью стрелок: из нужного статуса протяните стрелку в новый.
+Добавление переходов делается с помощью стрелок: из нужного статуса протяните стрелку в новый:
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1171).png" alt=""><figcaption></figcaption></figure>
 
-При нажатии на установленную стрелку откроется меню настройки конкретного перехода. Можно указать для кого разрешён переход:
+При нажатии на установленную стрелку откроется меню настройки конкретного перехода:&#x20;
 
+* Скрыть на схеме - переход не будет отображаться на схеме. Данная возможность упрощает читаемость схемы, позволяет оставить видимыми только ключевые переходы, скрытые переходы продолжают работать, но отображаются в специальном режиме.
 * Доступен для всех - переход будет доступен для всех пользователей;
 * Доступен для автора - переход будет доступен только для автора задачи;
 * Доступен для исполнителя - переход доступен только для исполнителя задачи.
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1172).png" alt=""><figcaption></figcaption></figure>
 
-При клике на статус открывается меню просмотра всех возможных переходов, в которых задействован конкретный статус.
+При клике на статус открывается меню просмотра статуса и всех его разрешённых переходов.
 
 * Входящие переходы - откуда можно перевести в выбранный статус;
 * Исходящие переходы - куда можно перевести из выбранного статуса.
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1173).png" alt=""><figcaption></figcaption></figure>
 
-Кнопки со стрелками в левом верхнем углу нужны, чтобы расположить рабочий поток по вертикали или горизонтали:
+Если на схему уже добавлено несколько статусов, то переходы между ними можно делать по кнопке "**Добавить переход**" и выбора статуса из списка:
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1175).png" alt=""><figcaption></figcaption></figure>
 
-Пример расположения рабочего потока по вертикали:
+При необходимости переход можно удалить с помощью кнопки "**Удалить переход**":
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1176).png" alt=""><figcaption></figcaption></figure>
 
-Пример расположения рабочего потока по горизонтали:
+Так же в меню просмотра статуса можно управлять отображением переходов:
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1178).png" alt=""><figcaption></figcaption></figure>
 
-Кнопки в нижнем левом углу предназначены для изменения масштабов рабочей области:
+### Условные обозначения статуса
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+1. Если статус имеет признак "Закрывающий" или "Только чтение", то при добавлении статуса на схему система предупредит об этом специальными иконками. О настройках статусов можно прочесть на странице "[Статусы](statusy.md)".
 
-* плюс - пошаговое увеличение масштаба;
-* минус - пошаговое уменьшение масштаба;
-* выделение - вернуться к размеру по умолчанию в один клик.
+<figure><img src="../../.gitbook/assets/image (1185).png" alt=""><figcaption></figcaption></figure>
 
-Для сохранения изменений воспользуйтесь одноименной кнопкой "Сохранить" в верхнем правом углу:
+2. Если в статусе можно создавать задачи, то в верхнем левом углу статуса будет иконка с плюсом:
 
-<figure><img src="../../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1181).png" alt=""><figcaption></figcaption></figure>
+
+3. Иконка в нижнем левом углу говорит о том, что из любого статуса на схеме можно перейти в выбранный - разрешены все входящие переходы:
+
+<figure><img src="../../.gitbook/assets/image (1182).png" alt=""><figcaption></figcaption></figure>
+
+4. Иконка в нижнем правом углу говорит о том, что из выбранного статуса можно перейти во все другие, добавленные на схему - разрешены все исходящие переходы:
+
+<figure><img src="../../.gitbook/assets/image (1183).png" alt=""><figcaption></figcaption></figure>
+
+5. Иконка в верхнем правом углу предупредит, если статус имеет признак "**Закрывающий**". Подробнее про настройку статусов можно прочесть на странице "[Статусы](statusy.md)".
+
+<figure><img src="../../.gitbook/assets/image (1184).png" alt=""><figcaption></figcaption></figure>
+
+### Навигационная панель
+
+Навигационная панель находится в нижней части экрана:
+
+<figure><img src="../../.gitbook/assets/image (1186).png" alt=""><figcaption></figcaption></figure>
+
+Включает следующие функции:
+
+* Включить/Отключить перемещение статусов - возможность управлять местоположением статусов:
+
+<figure><img src="../../.gitbook/assets/image (1187).png" alt=""><figcaption></figcaption></figure>
+
+* Изменение масштаба:
+  * Увеличить масштаб;
+  * Уменьшить масштаб;
+  * Стандартный размер - возврат к 100% масштабу;
+  * Подогнать вид - расположить схему по центру экрана;
+
+<figure><img src="../../.gitbook/assets/image (1188).png" alt=""><figcaption></figcaption></figure>
+
+* Показать/Убрать скрытые переходы - по умолчанию скрытые переходы не показываются для удобства чтения схемы:
+
+<figure><img src="../../.gitbook/assets/image (1190).png" alt=""><figcaption></figcaption></figure>
+
+* Сохранить или Отменить изменения:
+
+<figure><img src="../../.gitbook/assets/image (1192).png" alt=""><figcaption></figcaption></figure>
+
+* Полноэкранный режим - для удобства редактирования откройте схему на весь экран:
+
+<figure><img src="../../.gitbook/assets/image (1193).png" alt=""><figcaption></figcaption></figure>
+
+* Дополнительные функции:
+  * Копирование рабочего потока:
+
+<figure><img src="../../.gitbook/assets/image (1194).png" alt=""><figcaption></figcaption></figure>
+
+## Работа со стрелками на схеме
+
+Изменение стрелок доступно с помощью точек, для установки точки воспользуйтесь комбинацией Ctrl (Cmd) + левая кнопка мыши, далее переместите стрелку.
+
+Чтобы удалить точку кликните по точке правой кнопкой мыши.
+
+1. Стрелка, установленная автоматически:
+
+<figure><img src="../../.gitbook/assets/image (1199).png" alt=""><figcaption></figcaption></figure>
+
+2. Стрелка с точкой для изменения:
+
+<figure><img src="../../.gitbook/assets/image (1200).png" alt=""><figcaption></figcaption></figure>
+
+3. Стрелка после изменения:
+
+<figure><img src="../../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
+
+Подсказки для работы с точками и стрелками всегда находится в левом нижнем углу:
+
+<figure><img src="../../.gitbook/assets/image (1198).png" alt=""><figcaption></figcaption></figure>
 
 ## Копирование рабочего потока
 
-Для быстрого перенести настройки рабочего потока (например, статусы, переходы, права доступа) из одного типа задачи в другой, воспользуйтесь кнопкой **"Скопировать из":**
+Для быстрого перенести настройки рабочего потока (например, статусы, переходы, права доступа) из одного типа задачи в другой, воспользуйтесь кнопкой **"Копировать из"** в навигационном меню:
 
-<figure><img src="../../.gitbook/assets/image (1043).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1195).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне укажите:
 
@@ -118,7 +192,7 @@ icon: square-v
 
 Подтвердите действия кнопкой "**Копировать**".
 
-<figure><img src="../../.gitbook/assets/image (1044).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1196).png" alt=""><figcaption></figcaption></figure>
 
 **Пример использования :**
 
@@ -126,6 +200,12 @@ icon: square-v
 
 * Скопировать эти настройки для новой роли.
 * Или применить их к другому типу задачи.
+
+## Удаление статуса из рабочего потока
+
+Чтобы удалить статус из рабочего потока нажмите кнопку "**Удалить из рабочего потока**".
+
+<figure><img src="../../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 
 ## Удаление рабочего потока
 
