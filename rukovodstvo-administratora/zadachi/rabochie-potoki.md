@@ -41,9 +41,13 @@ icon: square-v
 
 <figure><img src="../../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 Если у вас ещё нет типов задач, [создайте их](tipy-zadach.md).
 
+Если у вас ещё нет статусов, то создайте их. Описание можно найти на странице "[Статусы](statusy.md)".
+
 Описание создания новых ролей можно найти в разделе "[Добавление роли](../polzovateli-zapolniteli-i-gruppy/roli-i-prava/roli.md#dobavlenie-roli)".
+{% endhint %}
 
 ## Добавление и изменение рабочего потока
 
@@ -56,10 +60,6 @@ icon: square-v
 Для добавления недостающего статуса воспользуйтесь кнопкой "**Добавить**" в правом углу рабочей зоны:
 
 <figure><img src="../../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Если у вас ещё нет статусов, то создайте их (описание можно найти на странице "[Статусы](statusy.md)").
-{% endhint %}
 
 В появившемся меню перетащите в рабочую область необходимый статус или кликните на него:
 
