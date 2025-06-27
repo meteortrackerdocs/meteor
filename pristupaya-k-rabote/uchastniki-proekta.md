@@ -8,7 +8,7 @@ description: Проект доступен участникам проекта. 
 
 Чтобы увидеть список участников, откройте контекстное меню проекта и выберите "**Участники проекта**":
 
-<figure><img src="../.gitbook/assets/image (1010).png" alt="" width="401"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1164).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне отобразятся все пользователи с доступом к проекту:
 
