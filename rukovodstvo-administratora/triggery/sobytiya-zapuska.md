@@ -138,8 +138,9 @@ Response:
 
 Это будет происходить до того момента, пока не будет получен **status**, отличный от "**in\_process**". Как только триггер завершит свою работу, следующий вызов метода проверки статуса вернет:
 
-<pre class="language-json"><code class="lang-json"><strong>/op/api/v3/job_statuses/a77cf1d4-18eb-4073-b4f5-15005e3c2bde
-</strong>
+```json
+/op/api/v3/job_statuses/a77cf1d4-18eb-4073-b4f5-15005e3c2bde
+
 Response в случае успешного выполнения триггера:
 {
     "_type": "JobStatus",
@@ -167,7 +168,7 @@ Response в случае ошибки в триггере:
         }
     }
 }
-</code></pre>
+```
 
 
 
