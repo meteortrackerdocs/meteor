@@ -3,7 +3,7 @@
 METEOR автоматически записывает встречи через сервис [mymeet.ai](http://mymeet.ai), преобразуя их в структурированные задачи с исполнителями и сроками.
 
 **Требования:**\
-Для начала работы необходимо [настроить интеграцию](https://meteor-docs.gitbook.io/docs/rukovodstvo-administratora/integracii/integraciya-s-mymeet.ai) с [mymeet.ai.](https://mymeet.ai/)
+Для начала работы необходимо [настроить интеграцию](../rukovodstvo-administratora/integracii/integraciya-s-mymeet.ai.md) с [mymeet.ai.](https://mymeet.ai/)
 
 ## 1. Создание и запись встречи
 
