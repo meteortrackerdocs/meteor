@@ -12,3 +12,11 @@ icon: square-v
 Автоматическая сортировка задач доступна в представлениях [Список задач](../spiski-zadach/nastroika-spiska-zadach.md), [Диаграмма Ганта](../diagramma-ganta/zadachi-na-diagramme-ganta.md).
 
 Ручная сортировка задач доступна в представлениях [Доска задач](../doski/zadachi-na-doske.md), [Списки задач](../spiski-zadach/nastroika-spiska-zadach.md), [Диаграмма Ганта](../diagramma-ganta/zadachi-na-diagramme-ganta.md).
+
+**Обзор раздела**:
+
+1. [Сортировка задач](sortirovka-zadach.md)
+   1. Автоматическая сортировка;
+   2. Ручная сортировка.
+2. [Сортировка в таблицах](sortirovka-v-tablicakh.md):
+   * Сортировка встроенных таблиц.
