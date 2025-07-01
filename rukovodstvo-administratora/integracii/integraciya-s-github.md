@@ -37,7 +37,7 @@ description: >-
 
     &#x20;_(Администрирование -> Пользователи и права -> Роли -> Конкретная роль -> раздел "Задачи")_
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2.  Создайте [пользователя](../polzovateli-zapolniteli-i-gruppy/polzovateli.md) для интеграции
 
@@ -46,7 +46,7 @@ description: >-
 
     _(Администрирование -> Пользователи и права -> Пользователи)_
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Сгенерируйте API-токен для этого пользователя (он понадобится вам на стороне GitHub). Для генерации токена необходимо:
    * войдите в систему под учётной записью нового пользователя.

@@ -12,7 +12,7 @@
 
 Чтобы открыть информационное окно "Биллинг", кликните по иконке рубля, которая находится рядом с иконкой профиля.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Доступ к биллингу
 
@@ -24,7 +24,7 @@
 
 * или признака "Администратор" в карточке пользователя.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Состояние экземпляра
 
@@ -58,7 +58,7 @@
 
 И у пользователей с доступом к к информационному окну "Биллинг":
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Что делать, если ваш экземпляр в состоянии "Только для чтения"?
 
@@ -85,7 +85,7 @@
 
 Это режим, в котором значения платежных метрик превышают квоты на бесплатное использование аккаунта METEOR:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Расчетный период
 

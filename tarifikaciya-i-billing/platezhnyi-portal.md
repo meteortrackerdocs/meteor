@@ -15,7 +15,7 @@
 
 Откройте информационное окно "**Биллинг**" (у вас должен быть [доступ к биллингу](billing.md#dostup-k-billingu)). Для этого кликните по иконке рубля, которая находится рядом с иконкой профиля.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне найдите "**Платежный портал**" и нажмите кнопку "**Перейти**".
 
