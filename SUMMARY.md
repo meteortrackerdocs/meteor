@@ -38,7 +38,6 @@
     * [Настройка списка задач](rukovodstvo-polzovatelya/spiski-zadach/nastroika-spiska-zadach.md)
   * [Диаграмма Ганта](rukovodstvo-polzovatelya/diagramma-ganta/README.md)
     * [Задачи на диаграмме Ганта](rukovodstvo-polzovatelya/diagramma-ganta/zadachi-na-diagramme-ganta.md)
-    * [Режимы автоматического и ручного планирования](rukovodstvo-polzovatelya/diagramma-ganta/rezhimy-avtomaticheskogo-i-ruchnogo-planirovaniya.md)
   * [Участники проекта](rukovodstvo-polzovatelya/uchastniki-proekta.md)
   * [Версии / Спринты](rukovodstvo-polzovatelya/versii-sprinty/README.md)
     * [Задачи в версиях / спринтах](rukovodstvo-polzovatelya/versii-sprinty/zadachi-v-versiyakh-sprintakh.md)
