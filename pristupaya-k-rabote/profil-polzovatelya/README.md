@@ -42,7 +42,7 @@ description: >-
 
 ### Настройка уведомлений
 
-Подробнее с настройкой уведомлений можно ознакомиться в статье "[Настройки уведомлений](../../rukovodstvo-polzovatelya/uvedomleniya/nastroiki-uvedomlenii-telegram-uvedomleniya.md)".
+Подробнее с настройкой уведомлений можно ознакомиться в статье "[Настройки уведомлений](../../rukovodstvo-polzovatelya/uvedomleniya/nastroiki-uvedomlenii-telegram-uvedomleniya/)".
 
 ### Смена пароля
 

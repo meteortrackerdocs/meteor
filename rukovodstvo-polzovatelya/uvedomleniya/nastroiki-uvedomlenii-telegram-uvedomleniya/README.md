@@ -2,11 +2,11 @@
 description: Настраивайте удобные оповещения в METEOR, Telegram
 ---
 
-# Настройки уведомлений, Telegram-уведомления
+# Настройка центра уведомлений
 
 Чтобы открыть и настроить центр уведомлений в системе, выполните следующие действия. Нажмите на ваш аватар в правом верхнем углу - появится выпадающее меню. В этом меню выберите пункт "**Настройка уведомлений**", чтобы перейти в соответствующий раздел.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ## Центр уведомлений
 
@@ -14,7 +14,7 @@ description: Настраивайте удобные оповещения в MET
 
 ### Настройки по умолчанию по всем проектам
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 1. Вы участник:
    1. Уведомления о действиях в задачах, где вы назначены исполнителем, ответственным или наблюдателем:
@@ -38,32 +38,13 @@ description: Настраивайте удобные оповещения в MET
 
 Для настройки индивидуальных уведомлений по проекту нажмите "**+ Добавить настройку для проекта**":
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Выберите нужный проект из выпадающего списка:
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 В новой появившейся вкладке настройте параметры уведомлений для этого проекта:
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-## Telegram
-
-Для настройки уведомлений в Telegram администратор вашего экземпляра METEOR должен выполнить настройки бота для отправки уведомлений. Инструкция описана на странице "[Настройки системы для отправки уведомлений в Telegram](../../rukovodstvo-administratora/nastroika-sistemy-dlya-otpravki-uvedomlenii/uvedomleniya-v-telegram.md)".
-
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
-
-Если администратор экземпляра выполнил необходимые настройки, то при активации уведомлений в Telegram надо будет выполнить 2 шага.
-
-**Шаг 1**. Начните чат с ботом. Необходимо перейдите в бот и нажать кнопку "/start".
-
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-
-**Шаг 2**. Введите ID чата. Необходим идентификатор чата, в который будут приходить уведомления. Свой ID можно получить в специальном боте [@userinfobot](https://t.me/userinfobot).
-
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
-
-Настройки выполнены, нажмите кнопку "**Подключить**".
-
-После сохранения данных, бот пришлёт приветственное сообщение.

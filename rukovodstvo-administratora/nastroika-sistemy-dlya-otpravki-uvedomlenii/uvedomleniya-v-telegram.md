@@ -1,10 +1,4 @@
----
-description: В разработке...
----
-
 # Уведомления в Telegram
-
-
 
 Перейдите в раздел "**Администрирование**" в верхней части экрана:
 
@@ -35,4 +29,4 @@ description: В разработке...
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-После подключения бота пользователи смогут настраивать необходимые уведомления с помощью "[**Настроек уведомлений**](../../rukovodstvo-polzovatelya/uvedomleniya/nastroiki-uvedomlenii-telegram-uvedomleniya.md)".
+После подключения бота пользователи смогут настраивать необходимые уведомления с помощью "[**Настроек уведомлений**](../../rukovodstvo-polzovatelya/uvedomleniya/nastroiki-uvedomlenii-telegram-uvedomleniya/)".
