@@ -17,7 +17,7 @@
 * [Руководство пользователя](rukovodstvo-polzovatelya/README.md)
   * [Навигация и поиск](rukovodstvo-polzovatelya/navigaciya-i-poisk.md)
   * [Проекты](rukovodstvo-polzovatelya/proekty/README.md)
-    * [Создание проекта / подпроекта](rukovodstvo-polzovatelya/proekty/sozdanie-proekta-podproekta.md)
+    * [Создание проекта/подпроекта](rukovodstvo-polzovatelya/proekty/sozdanie-proekta-podproekta.md)
     * [Копирование проекта](rukovodstvo-polzovatelya/proekty/kopirovanie-proekta.md)
     * [Настройки проекта](rukovodstvo-polzovatelya/proekty/nastroiki-proekta.md)
     * [Шаблоны проектов](rukovodstvo-polzovatelya/proekty/shablony-proektov.md)
