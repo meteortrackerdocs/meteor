@@ -1,16 +1,5 @@
 ---
 description: Эта документация поможет вам сделать первые шаги в освоении METEOR.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Приступая к работе

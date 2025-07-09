@@ -95,11 +95,11 @@ _**Родительская задача-дочерняя задача (подз
 1. Вручную. Введите дату начала и окончания задачи. Поддерживаемые форматы: 10.06.2025, 10.06.25, 10 июня, 10 июня 2025.
 2. Через календарь. Выберите дату начала и окончания, даты отобразятся в соответствующих полях. Выделение тёмно-синим для активных дат; промежуточные даты выделяться синим.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Продолжительность задачи будет рассчитана автоматически и появится в поле для ввода - **продолжительность задачи**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После выбора дат нажмите "**Сохранить**", чтобы зафиксировать изменения. Изменения дат будут зафиксированы в [Истории по задаче](istoriya-po-zadache.md).
 
@@ -111,7 +111,7 @@ _**Родительская задача-дочерняя задача (подз
 
 Задачи, являющиеся вехами (установлен [тип задачи](../../rukovodstvo-administratora/zadachi/tipy-zadach.md) "Веха"), всегда имеют только одну дату.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Расчёт длительности
 
