@@ -1,4 +1,4 @@
-# WorkPackage - Задача / Пакет работ
+# WorkPackage - Задача
 
 ## Поля
 
@@ -180,10 +180,3 @@ work_package.relations.relates.each { ... }
 work_package.relations.select { |r| r.relation_type == 'blocks' }.each { |r| r.destroy }
 ```
 
-TODO - не нашел в коде :
-
-:ancestor\_hierarchies, :self\_and\_ancestors, :descendant\_hierarchies,\
-:self\_and\_descendants, :root?, :child?, :leaf?, :root, :leaves, :depth, :level, :ancestors,\
-:ancestor\_ids, :self\_and\_ancestors\_ids, :child\_ids, :descendants, :self\_and\_descendant\_ids,\
-:descendant\_ids, :self\_and\_siblings, :siblings, :sibling\_ids, :parent\_of?, :root\_of?,\
-:ancestor\_of?, :descendant\_of?, :child\_of?, :family\_of?, :add\_child
