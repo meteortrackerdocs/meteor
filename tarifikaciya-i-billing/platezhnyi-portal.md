@@ -19,7 +19,7 @@
 
 В открывшемся окне найдите "**Платежный портал**" и нажмите кнопку "**Перейти**".
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр баланса лицевого счета
 
@@ -46,21 +46,21 @@
 3. Общее количество использованных кредитов.\
    Это сумма кредитов, списанных с лицевого счета для оплаты услуг.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Пополнение лицевого счета
 
 Чтобы пополнить лицевой счет  нажмите кнопку "**Пополнить**" в разделе "**Лицевой счет**":
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне введите сумму пополнения и нажмите кнопку "**Сформировать счёт**". 1 кредит = 1 рублю.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 После нажатия кнопки "**Сформировать счёт**" будет автоматически сформирован счет на сумму пополнения. Счета на пополнение не влияют на показатель "**Общая сумма выставленных счетов**".
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Оплатите счет [онлайн через платежную систему](platezhnyi-portal.md#oplata-scheta-onlain-cherez-platezhnuyu-sistemu) или [скачайте его](platezhnyi-portal.md#skachivanie-scheta-na-oplatu) для оплаты в интернет-банке или оффлайн.
 
@@ -76,17 +76,17 @@
   * Для стандартной подписки — 1-е число следующего месяца.
   * Для годовой подписки — 1-е число месяца, следующего за месяцем окончания текущей подписки.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр использования (платежных метрик)
 
 В этом разделе представлена информация о значениях [платежных метрик](billing.md#platezhnye-metriki), на основе которых рассчитывается стоимость использования METEOR Cloud за расчётный период.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне просмотрите информацию по платежным метрикам за текущий расчетный период.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр информации о клиенте
 
@@ -122,7 +122,7 @@
 * Адрес фактического местонахождения юридического или физического лица.
 * По умолчанию не заполняется. Для юридических лиц и индивидуальных предпринимателей также рекомендуется заполнить.
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр истории выставления счетов
 
@@ -168,7 +168,7 @@
 
 Выберите "**Оплатить**":&#x20;
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 Вы будете перенаправлены на сервис оплаты Юkassa. Выберите удобный способ оплаты из предложенных и завершите процесс оплаты.
 
