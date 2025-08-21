@@ -25,11 +25,7 @@ icon: square-v
 
 {% hint style="info" %}
 Добавлять, изменять типы задач могут пользователи с соответствующими правами в глобальной роли. Подробнее о ролях можно прочесть в статье "[Роли"](../polzovateli-zapolniteli-i-gruppy/roli-i-prava/roli.md).
-
-
 {% endhint %}
-
-[#funkcionalnyi-blok-proekt](../polzovateli-zapolniteli-i-gruppy/roli-i-prava/prava.md#funkcionalnyi-blok-proekt "mention")
 
 Для добавления нового типа задачи нажмите "**+ Добавить**". В открывшемся окне настройте новый тип:
 
