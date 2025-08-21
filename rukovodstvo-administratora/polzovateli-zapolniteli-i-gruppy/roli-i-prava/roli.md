@@ -54,5 +54,5 @@ icon: square-v
 <figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Роли "Не участник" и "Аноним" нельзя удалить.
+Роли "**Не участник**" и "**Аноним**" нельзя удалить. Подробнее о них можно описано в статье "[Предустановленные роли](opisanie-predustanovlennykh-rolei.md#sistemnye-roli)".
 {% endhint %}

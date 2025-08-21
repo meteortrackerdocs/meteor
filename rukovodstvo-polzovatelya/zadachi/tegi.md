@@ -22,6 +22,10 @@ icon: square-v
 
 <figure><img src="../../.gitbook/assets/image (988).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Если у вас не отображается кнопка "**Создать**", обратитесь к **администратору вашего экземпляра METEOR** для выдачи прав на управление тегами. Подробная информация находится в разделе "[Роли и права](../../rukovodstvo-administratora/polzovateli-zapolniteli-i-gruppy/roli-i-prava/)".
+{% endhint %}
+
 Если в экземпляре METEOR уже есть тег с таким названием, то после поиска появится кнопка "**Добавить**", и тег будет привязан к задаче и проекту автоматически:
 
 <figure><img src="../../.gitbook/assets/image (989).png" alt=""><figcaption></figcaption></figure>
