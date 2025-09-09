@@ -33,7 +33,7 @@ description: >-
 
     &#x20;_(Администрирование -> Пользователи и права -> Роли -> Конкретная роль -> раздел "Задачи")_
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (2).png" alt=""><figcaption></figcaption></figure>
 
 2.  Создайте [пользователя](../polzovateli-zapolniteli-i-gruppy/polzovateli.md) для интеграции
 

@@ -28,13 +28,13 @@ icon: square-v
 
 В открывшемся окне отобразится список всех значений у справочника.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Справочник "Категории документов"
 
 Категории документов помогают организовать хранение файлов в проектах, в [инструменте "Документы"](../rukovodstvo-polzovatelya/dokumenty.md).
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с категориями в списке всех значений:
 
@@ -91,7 +91,7 @@ icon: square-v
 
 [Приоритеты задач](../rukovodstvo-polzovatelya/zadachi/) помогают команде определить порядок выполнения работ, выделяя наиболее срочные и важные задачи для эффективного распределения времени и ресурсов.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные действия с приоритетами в списке всех значений:
 
@@ -104,7 +104,7 @@ icon: square-v
 
 Для добавления приоритета нажмите кнопку "**+ Добавить**":
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне заполните необходимые поля:
 
@@ -180,23 +180,23 @@ icon: square-v
 
 Откройте необходимый вид деятельности кликом по названию или через кнопку "**Редактировать**" в контекстном меню:
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Копировать вид деятельности
 
 Копировать вид деятельности можно по кнопке "**Копировать**" в контекстном меню в списке:
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Удалить вид деятельности
 
 Для удаления вида деятельности в списке всех категорий воспользуйтесь кнопкой "**Удалить**", в контекстном меню:
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее подтвердите действие:
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если вид деятельности используется в системе, удаление не возможно, и система уведомит об этом:
 

@@ -20,7 +20,7 @@
 
 * права "**Биллинг**" в[ глобальной роли](../rukovodstvo-administratora/polzovateli-zapolniteli-i-gruppy/roli-i-prava/opisanie-predustanovlennykh-rolei.md):
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * или признака "**Администратор**" в карточке пользователя.
 
@@ -54,7 +54,7 @@
 
 Состояние "**Только для чтение**" отображается и у пользователей без доступа к информационному окну "**Биллинг**":
 
-<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 И у пользователей с доступом к к информационному окну "**Биллинг**":
 
@@ -79,13 +79,13 @@
 
 Квота - это максимальное значение платежной метрики, при которой использование METEOR является бесплатным.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Платный режим**
 
 Это режим, в котором значения платежных метрик превышают квоты на бесплатное использование аккаунта METEOR:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Расчетный период
 

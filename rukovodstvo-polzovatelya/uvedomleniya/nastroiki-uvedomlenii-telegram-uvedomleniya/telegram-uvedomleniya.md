@@ -2,7 +2,7 @@
 
 Для настройки уведомлений в Telegram администратор вашего экземпляра METEOR должен выполнить настройки бота для отправки уведомлений. Инструкция описана на странице "[Настройки системы для отправки уведомлений в Telegram](../../../rukovodstvo-administratora/nastroika-sistemy-dlya-otpravki-uvedomlenii/uvedomleniya-v-telegram.md)".
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если администратор экземпляра выполнил необходимые настройки, то при активации уведомлений в Telegram надо будет выполнить 2 шага.
 

@@ -62,6 +62,7 @@
   * [Группировка](rukovodstvo-polzovatelya/gruppirovka.md)
   * [Текстовый редактор](rukovodstvo-polzovatelya/tekstovyi-redaktor.md)
   * [Встречи](rukovodstvo-polzovatelya/vstrechi.md)
+  * [Ресурсный планировщик](rukovodstvo-polzovatelya/resursnyi-planirovshik.md)
 * [Руководство администратора](rukovodstvo-administratora/README.md)
   * [Пользователи, группы и права](rukovodstvo-administratora/polzovateli-zapolniteli-i-gruppy/README.md)
     * [Пользователи](rukovodstvo-administratora/polzovateli-zapolniteli-i-gruppy/polzovateli.md)

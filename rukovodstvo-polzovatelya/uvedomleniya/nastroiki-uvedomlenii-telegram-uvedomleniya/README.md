@@ -6,7 +6,7 @@ description: Настраивайте удобные оповещения в MET
 
 Чтобы открыть и настроить центр уведомлений в системе, выполните следующие действия. Нажмите на ваш аватар в правом верхнем углу - появится выпадающее меню. В этом меню выберите пункт "**Настройка уведомлений**", чтобы перейти в соответствующий раздел.
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Центр уведомлений
 
@@ -14,7 +14,7 @@ description: Настраивайте удобные оповещения в MET
 
 ### Настройки по умолчанию по всем проектам
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Вы участник:
    1. Уведомления о действиях в задачах, где вы назначены исполнителем, ответственным или наблюдателем:
@@ -38,13 +38,13 @@ description: Настраивайте удобные оповещения в MET
 
 Для настройки индивидуальных уведомлений по проекту нажмите "**+ Добавить настройку для проекта**":
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выберите нужный проект из выпадающего списка:
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 В новой появившейся вкладке настройте параметры уведомлений для этого проекта:
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
