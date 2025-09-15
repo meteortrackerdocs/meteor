@@ -16,7 +16,7 @@ icon: square-v
 
 Для открытия нажмите на кнопку "**+ Вид**" и выберите инструмент "**Документы**":
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1218).png" alt=""><figcaption></figcaption></figure>
 
 Откроется окно, где будут показаны все доступные документы, отсортированные по дате загрузки (сначала новые):
 

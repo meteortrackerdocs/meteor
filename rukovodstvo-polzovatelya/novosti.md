@@ -14,13 +14,9 @@ icon: square-v
 
 ## Просмотр новостей
 
-Нажмите кнопку "**+ Вид**" в верхней навигационной панели:
+Для открытия нажмите на кнопку "**+ Вид**" и выберите инструмент «**Новости**»:
 
-<figure><img src="../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
-
-Выберите раздел «**Новости**» из выпадающего меню:
-
-<figure><img src="../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1219).png" alt=""><figcaption></figcaption></figure>
 
 После этого откроется список всех новостей проекта:
 
