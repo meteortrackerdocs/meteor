@@ -60,7 +60,7 @@ icon: square-v
 * **Секции** (логические блоки, например, «Основное», «Оценки», «Финансы»)
 * **Поля** внутри секций ("Исполнитель", "Приоритет", "Затраты" и др.)
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Доступные действия с секциями**
 
@@ -70,25 +70,25 @@ icon: square-v
 
 2. Изменить название секции:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Удалить секцию:
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 При удалении секции все поля, находящиеся в ней, станут доступны для выбора - переместятся в раздел "**Доступные поля**", чтобы вы могли использовать их в других секциях:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Изменить местоположение секции
 
 * С помощью стрелок - секция переместится на один пункт:
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * С помощью перетаскивания - размещение в любом месте:
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Доступные действия с полями**
 
@@ -96,36 +96,36 @@ icon: square-v
 
     * Перетаскиванием из раздела "**Доступные поля**":
 
-    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * С помощью кнопки "**Добавить поле**" с выбором из списка:
 
-    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Удалить поле из секции можно тремя способами:
 
     * Перетаскиванием в другую секцию или в раздел "**Доступные поля**":
 
-    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Нажатием кнопки "**Удалить из секции**" (поле вернётся в раздел "**Доступные поля**"):
 
-    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Через контекстное меню поля (кнопка "**Удалить из секции**"):
 
-    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Изменить порядок поля в секции можно:
 
     * Перетаскиванием в нужную позицию:
 
-    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Через контекстное меню поля (кнопки "В начало секции", "В конец секции", "Переместить в секцию"):
 
-    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. В разделе "**Доступные поля**" также можно использовать контекстное меню для быстрого добавления полей в секции, изменение местоположения полей в списке.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Добавить поле**
 
@@ -135,7 +135,7 @@ icon: square-v
 
 Так же при настройке формы из раздела "**Доступные поля**" можно перейти к редактированию созданного поля:
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Настройки рабочего потока
 

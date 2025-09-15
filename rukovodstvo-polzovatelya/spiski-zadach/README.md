@@ -20,19 +20,25 @@ icon: square-v
 
 Сохранённые списки будут доступны в верхнем меню:
 
-<figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание списка задач
 
-Нажмите "**+ Вид**" и выберите "Список задач".
+Нажмите "**+ Вид**" и выберите "**Список задач"**.
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+В появившемся окне укажите название списка и выберите публичность:
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+Эти данные можно будет изменить в любой момент с помощью [контекстного меню](./#redaktirovat-spisok-zadach) списка.
 
 Будет создан новый вид. Настройте его по своим требованиям: добавьте фильтры, группировку и сортировку. Подробнее можно [прочесть в этой статье](nastroika-spiska-zadach.md).
 
-Если в проекте уже есть список, создайте новый, нажав "**+ Создать новый**":
+Если в проекте уже есть список, создайте новый, нажав "**Создать новый**":
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Редактировать список задач
 
@@ -43,22 +49,22 @@ icon: square-v
 * Изменить название списка - необходимо вписать новое название списка на место старого названия;
 * Сделать публичной/приватной - изменить настройки видимости. При изменении публичности список переместится из раздела **Мои приватные** в **Публичные** или наоборот. Если один из разделов еще не был создан, он появится автоматически;
 * Добавить список в [избранное](../izbrannoe.md);
-* Создать копию;
-* Удалить список.
+* [Создать копию](./#kopirovat-spisok-zadach);
+* [Удалить список](./#udalit-spisok-zadach).
 
-<figure><img src="../../.gitbook/assets/image (1063).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Копировать список задач
 
 Выберите "**Создать копию**" в контекстном меню. Все настройки копируются, а новый список будет назван как исходный с добавлением слова "**Копия**" и появится в разделе **Мои приватные**. Название и приватность можно изменить.
 
-<figure><img src="../../.gitbook/assets/image (1064).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Удалить список задач
 
 Чтобы удалить список задач воспользуйтесь кнопкой "**Удалить**" в контекстном меню списка.
 
-<figure><img src="../../.gitbook/assets/image (1065).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне подтвердите удаление:
 

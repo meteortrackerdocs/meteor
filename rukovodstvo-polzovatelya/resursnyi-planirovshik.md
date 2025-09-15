@@ -42,7 +42,7 @@ icon: square-v
 
 В левой части ресурсного планировщика отображаются все участники проекта, кого можно назначить исполнителем в задачах (Определяется по роли и праву "**Стать исполнителем/ответственным**". Подробнее о ролях и правах можно прочесть в статьях "[Роли и права](../rukovodstvo-administratora/polzovateli-zapolniteli-i-gruppy/roli-i-prava/)").
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 По умолчанию исполнители сгруппированы по группам = командам. Группировку можно убрать, изменив режим отображения - "**По командам**" или "**По исполнителям**".
 
@@ -122,17 +122,17 @@ icon: square-v
 
 Вы можете создать любое количество ресурсных планировщиков, настроив их под свои нужды. Для этого нажмите на кнопку "**+ Вид**" и выберите "**Ресурсный планировщик**":
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне укажите его название и публичность. Их можно будет изменить в любой момент:
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее нажмите кнопку "**Сохранить**".
 
 Если в проекте уже есть ресурсный планировщик, создайте новый, нажав "**+ Создать новый**":
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Редактирование ресурсного планировщика
 
@@ -146,19 +146,19 @@ icon: square-v
 * Создать [копию ресурсного планировщика](resursnyi-planirovshik.md#kopirovanie-resursnogo-planirovshika);
 * [Удалить ресурсный планировщик](resursnyi-planirovshik.md#udalenie-resursnogo-planirovshika).
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Копирование ресурсного планировщика
 
 В контекстном меню выберите "**Создать копию**". Все настройки копируются, а новый ресурсный планировщик будет назван как исходный с добавлением слова "**Копия**" и появится в разделе **Мои приватные**. Название и приватность можно изменить.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Удаление ресурсного планировщика
 
 Чтобы удалить ресурсный планировщик, выберите "**Удалить**" в контекстном меню доски.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне подтвердите действие:
 

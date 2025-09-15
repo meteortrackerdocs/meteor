@@ -33,7 +33,7 @@ icon: square-v
 
 В открывшемся окне отобразится список всех групп в вашем экземпляре METEOR.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ## Добавление группы
 
@@ -49,19 +49,19 @@ icon: square-v
 
 * На вкладке "**Пользователи**" доступно управление участниками группы. Добавление пользователей в группу осуществляется через кнопку "**+ Добавить**".  Если вы используете в работе ресурсное планирование, укажите какой процент рабочего времени пользователь будет доступен для группы.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * В контекстном меню пользователя-участника группы можно изменить процент доступности в группе или удалить пользователя из группы.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 * На вкладке "**Проекты**" назначьте группе проекты, в которые будут добавлены все участники группы, а также их роль. Добавьте проект по кнопке "**+ Добавить**".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Редактирование ролей и удаление проектов осуществляется по соответствующим кнопкам в контекстном меню:
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Изменение группы
 
