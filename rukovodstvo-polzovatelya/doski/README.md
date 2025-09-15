@@ -27,7 +27,7 @@ icon: square-v
 
 Создать можно любое количество досок, настроив их под свои нужды. Для этого нажмите на кнопку "**+ Вид**" и выберите нужный тип доски. Подробнее о видах досок можно ознакомиться в статье "[Введение в доски](../../pristupaya-k-rabote/doski-zadach.md)".
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне укажите название доски, выберите тип доски и публичность.
 
