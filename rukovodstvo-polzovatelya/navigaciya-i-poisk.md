@@ -179,7 +179,7 @@ icon: square-v
   * Совещания;
   * Форумы.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Список представлений зависит от того, какие модули включены в проекте. С перечнем модулей и способом их активации можно [ознакомиться на странице](proekty/nastroiki-proekta.md#moduli-proekta).

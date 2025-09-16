@@ -115,7 +115,7 @@ METEOR автоматически записывает встречи через
 
 * Нажмите на кнопку "**Добавить встречу**" в левом меню:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Выберите пункт "**Загрузить файл**";
 * Выберите файл с компьютера или перетащите в область для загрузки;

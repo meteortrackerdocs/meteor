@@ -28,7 +28,7 @@ icon: square-v
 
 В открывшемся окне отобразится список всех значений у справочника.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Справочник "Категории документов"
 
