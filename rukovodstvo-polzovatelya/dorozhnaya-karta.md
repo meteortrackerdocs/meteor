@@ -14,11 +14,11 @@ icon: square-v
 
 Нажмите кнопку "**+ Вид**" в верхнем навигационном меню и в появившемся окне выберите инструмент "**Дорожная карта**".
 
-<figure><img src="../.gitbook/assets/image (793).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Если версий / спринтов ещё не было то система предложит создать их:
 
-<figure><img src="../.gitbook/assets/image (787).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Как создать версию / спринт можно прочесть в статье "[Версии / Спринты](versii-sprinty/#sozdanie-versii-sprinta)".
 
@@ -33,13 +33,13 @@ icon: square-v
 
 ## Просмотр дорожной карты
 
-Откройте проект, затем выберите Дорожную карту проекта. Зачеркнутые задачи - завершённые задачи.
+Откройте проект, затем выберите Дорожную карту проекта.
 
-<figure><img src="../.gitbook/assets/image (789).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Для удобства можно свернуть или развернуть список версий / спринтов с помощью кнопки "**Свернуть/Развернуть**":
 
-<figure><img src="../.gitbook/assets/image (790).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Для примера, дорожная карта может выглядеть следующим образом:
 

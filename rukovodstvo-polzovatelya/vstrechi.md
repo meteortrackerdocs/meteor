@@ -14,7 +14,7 @@ METEOR автоматически записывает встречи через
 
     * Нажмите на кнопку "Добавить встречу" в левом меню:
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Убедитесь, что активирован переключатель "**Записать встречу**";
     * Выберите сервис;
@@ -22,7 +22,7 @@ METEOR автоматически записывает встречи через
     * Укажите название встречи (опционально);
     * Нажмите кнопку "**Записать встречу**".
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Важно!**
@@ -115,11 +115,11 @@ METEOR автоматически записывает встречи через
 
 * Нажмите на кнопку "**Добавить встречу**" в левом меню:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Выберите пункт "**Загрузить файл**";
 * Выберите файл с компьютера или перетащите в область для загрузки;
 * Укажите название встречи (опционально);
 * Нажмите кнопку "**Загрузить файл**".
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
