@@ -21,23 +21,23 @@ icon: square-v
 
 В верхнем меню можно найти все доски проекта. Справа от названия доски указано их количество. Чтобы открыть список досок, нажмите на название или количество. В списке доски делятся на публичные и приватные. Для просмотра конкретной доски кликните на её название.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание доски
 
 Создать можно любое количество досок, настроив их под свои нужды. Для этого нажмите на кнопку "**+ Вид**" и выберите нужный тип доски. Подробнее о типах досок можно ознакомиться в статье "[Доски задач](../../pristupaya-k-rabote/doski-zadach.md#tipy-dosok)".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне укажите название доски, выберите [тип доски](../../pristupaya-k-rabote/doski-zadach.md#tipy-dosok) и публичность. По умолчанию предлагается создать публичную доску - доступную всем участникам проекта.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Название и публичность можно будет изменить в любой момент с помощью [контекстного меню ](./#redaktirovanie-doski)доски.
 
 &#x20;Если в проекте уже есть доски, для создания новой используйте кнопку "**Создать новый**" в списке досок и выберите тип доски:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После создания доски [добавьте на неё колонки](kolonki-na-doske.md).
 
@@ -53,13 +53,13 @@ icon: square-v
 * Создать [копию доски](./#kopirovanie-doski);
 * [Удалить доску](./#udalenie-doski).
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Копирование доски
 
 В контекстном меню выберите "**Создать копию**".
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Все колонки исходной доски перенесутся на новую, а новый список будет назван как исходный с добавлением слова "**Копия**" и появится в разделе **Мои приватные**. Название и приватность можно изменить.
 
@@ -67,7 +67,7 @@ icon: square-v
 
 Чтобы удалить доску, выберите "**Удалить**" в контекстном меню доски.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне подтвердите действие.
 

@@ -7,7 +7,7 @@ icon: square-v
 
 Вы можете скопировать существующий проект. Для этого в контекстном меню проекта выберите "**Создать копию проекта**".
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt="" width="455"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне нужно указать название проекта. При необходимости можно заполнить или отредактировать поля "**Родитель**" и "**Описание**".
 

@@ -12,11 +12,11 @@ icon: square-v
 
 Пока вы не создали свои представления, или нет доступных публичных (доступных всем участникам проекта) представлений задач, то в проекте будет автоматически показан стандартный список всех задач - страница "**Задачи проекта**". Данная страница доступна в верхнем меню проекта и доступна всегда. Цель вкладки "**Задачи проекта**" - предоставить доступ к списку задач проекта для каждого участника.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После создания хотя бы одного публичного представления задач ([доски](../doski/), [списка](./) или [диаграммы Ганта](../diagramma-ganta/)) страница "**Задачи проекта**" отображается в виде иконки:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## Просмотр списка задач
 
@@ -38,7 +38,7 @@ icon: square-v
 
 В появившемся окне укажите название списка и выберите публичность:
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Эти данные можно будет изменить в любой момент с помощью [контекстного меню](./#redaktirovat-spisok-zadach) списка.
 

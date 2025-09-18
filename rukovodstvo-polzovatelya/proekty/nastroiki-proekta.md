@@ -7,9 +7,29 @@ icon: square-v
 
 # Настройки проекта
 
-В контекстном меню проекта выберите пункт "**Настройки**":
+Чтобы открыть все возможности управления проектом, используйте его контекстным меню. Оно разделено на два раздела для вашего удобства.
 
-<figure><img src="../../.gitbook/assets/image (241).png" alt="" width="563"><figcaption></figcaption></figure>
+**1. Действия с проектом**
+
+Здесь собраны опции для быстрой работы и управления жизненным циклом проекта.
+
+* Перейти на версии - объединяйте задачи в версии / спринты. Подробнее можно прочесть в [статье "Версии / Спринты"](../versii-sprinty/).
+* Создать подпроект - добавление вложенного проекта для сложной иерархии. Подробнее можно прочесть в [статье "Создание проекта"](sozdanie-proekta-podproekta.md#sozdanie-podproekta).
+* Создать копию проекта - копирование проекта со всеми настройками и задачами для быстрого старта. Подробнее можно прочесть в [статье "Копирование проекта"](kopirovanie-proekta.md).
+* Добавить/удалить из избранного - закрепление важных проектов для быстрого доступа. Подробнее об избранном можно прочесть в [статье "Избранное"](../izbrannoe.md).
+
+**2. Настройки проекта**
+
+Этот раздел предназначен для тонкой настройки параметров и состава проекта.
+
+* [Информация о проекте](nastroiki-proekta.md#informaciya-o-proekte) - изменение названия, описания, публичности проекта.
+* [Участники проекта](nastroiki-proekta.md#uchastniki-proekta) - управление составом команды и правами доступа.
+* [Типы задач](nastroiki-proekta.md#tipy-zadach) - настройка типов задач для проекта.
+* [Пользовательские поля](nastroiki-proekta.md#polzovatelskie-polya) - добавление специальных полей для учета уникальных данных по задачам.
+* [Модули](nastroiki-proekta.md#moduli-proekta) - включение или отключение дополнительных функций (например, «Диаграмма Ганта», «Ресурсное планирование»).
+* [Удалить проект](nastroiki-proekta.md#udalenie-proekta) - полное удаление проекта и всех связанных с ним данных. _Требует подтверждения._
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Информация о проекте
 
@@ -21,7 +41,7 @@ icon: square-v
 * признак "Публичный" - если он включен, то проект увидят неавторизованные пользователи и авторизованные пользователи, не добавленные в проект;
 * описание проекта.
 
-<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для доступа неавторизованных пользователей к публичному проекту нужно в разделе [Аутентификация](../../rukovodstvo-administratora/autentifikaciya/obshie-nastroiki.md) включить признак "**Разрешить доступ без авторизации**". Дополнительно, система напомнит об этом.
@@ -33,29 +53,29 @@ icon: square-v
 
 Во вкладке "**Участники проекта**" можно увидеть список добавленных участников проекта и их роли. Так же, добавить нового участника. Инструкция по добавлению участников находится по [ссылке](../uchastniki-proekta.md#dobavlenie-uchastnika).
 
-<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
-
-## Пользовательские поля
-
-Во вкладке "**Пользовательские поля**" указывайте те поля, которые должны использоваться в проекте.
-
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Типы задач
 
 Во вкладке "**Типы задач**" - доступные в проекте типы задач. Отметьте те типы, которые хотите сделать активными.
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Т.к. в настройках типа задачи указан цвет, то на доске задачи с этим типом будут дополнительно выделяться.
 
 <figure><img src="../../.gitbook/assets/image (996).png" alt=""><figcaption></figcaption></figure>
 
+## Пользовательские поля
+
+Во вкладке "**Пользовательские поля**" указывайте те поля, которые должны использоваться в проекте.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ## Модули проекта
 
 В разделе "**Модули**" отображаются все функциональные модули, которые включены для проекта. Активируйте те модули, которые хотите использовать:
 
-<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### Описание модулей проекта
 
@@ -84,4 +104,4 @@ icon: square-v
 
 В настройках проекта выберите пункт "**Удалить проект**". Удаление проекта - необратимая операция. Для удаления необходимо будет повторно ввести название проекта.
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1222).png" alt=""><figcaption></figcaption></figure>
