@@ -18,9 +18,16 @@ icon: square-v
 2. Выбрать тип задачи из выпадающего списка.
 3. Проверить статус, который присвоится после создания.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1234).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите "**Создать**" или клавишу Enter для сохранения.
+
+METEOR автоматически настраивает форму создания, подставляя:
+
+* поля из активного фильтра;
+* все обязательные для заполнения поля;
+
+<figure><img src="../../.gitbook/assets/image (1236).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание задач в колонке доски
 

@@ -8,7 +8,7 @@ icon: square-v
 
 По умолчанию задачи отсортированы по их идентификатору в порядке возрастания. Для изменения порядка сортировки нажмите кнопку **Сортировки** на верхней панели. Вы можете выбрать до 3-х критериев для сортировки, задавая для каждого направление — по возрастанию или убыванию.
 
-<figure><img src="../../.gitbook/assets/image (337).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1293).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите кнопку **Применить,** чтобы сохранить выбранные параметры сортировки и обновить отображение задач в соответствии с ними.
 
@@ -32,11 +32,11 @@ icon: square-v
 
 В режиме ручной сортировки при наведении курсора на задачу слева появляется иконка ![](<../../.gitbook/assets/image (1160).png>). При клике на эту иконку задачу можно перетягивать выше и ниже по списку.
 
-<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1294).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы сохранить результат сортировки, нажмите кнопку **Сохранить вид.** Иначе выбранная сортировка будет сброшена при обновлении страницы.
 
-<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1295).png" alt=""><figcaption></figcaption></figure>
 
 ## Ручная сортировка в списках задач
 
@@ -46,7 +46,7 @@ icon: square-v
 
 В режиме ручной сортировки при наведении курсора на задачу слева появляется иконка ![](<../../.gitbook/assets/image (1161).png>). При клике на эту иконку задачу можно перетягивать выше и ниже по списку. Также вы можете выделить несколько задач и перетащить их на требуемое место.
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1296).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В режиме ручной сортировки **без группировки** может быть отображено максимум 250 задач. Вы можете применять ручную сортировку без ограничений.
@@ -58,4 +58,4 @@ icon: square-v
 
 Чтобы сохранить результат сортировки, нажмите кнопку **Сохранить вид.** Иначе выбранная сортировка будет сброшена при обновлении страницы.
 
-<figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1297).png" alt=""><figcaption></figcaption></figure>

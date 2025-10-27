@@ -10,15 +10,15 @@ icon: square-v
 
 Объединяйте задачи из разных проектов в одном рабочем пространстве. Эта функция доступна в любом представлении: [доске](../doski/), [списке](../spiski-zadach/) или на [диаграмме Ганта](../diagramma-ganta/).
 
-В любом представлении задач (доски, списки, диаграмма Ганта) можно вывести задачи из других проектов. Сделать это можно с помощью кнопки "Проекты + подпроекты" на панели инструментов:
+В любом представлении задач (доски, списки, диаграмма Ганта) можно вывести задачи из других проектов. Сделать это можно с помощью кнопки "Проекты" на панели инструментов:
 
-<figure><img src="../../.gitbook/assets/image (1221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1286).png" alt=""><figcaption></figcaption></figure>
 
 ## Фильтрация
 
-Чтобы отфильтровать задачи, нажмите кнопку **Фильтр** на верхней панели. Число рядом с кнопкой указывает количество применённых критериев фильтрации.
+Чтобы отфильтровать задачи, нажмите кнопку **Фильтр** на верхней панели.
 
-<figure><img src="../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1287).png" alt=""><figcaption></figcaption></figure>
 
 ## Критерии фильтрации
 
@@ -78,7 +78,7 @@ icon: square-v
 
 Чтобы выполнить поиск по тексту в теме задачи, введите нужные слова в поле **Найти среди n задач** (где n — общее количество задач). Результаты фильтрации сразу отобразятся в таблице задач.
 
-<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1288).png" alt=""><figcaption></figcaption></figure>
 
 ### **Фильтр для дочерних задач**
 
@@ -86,7 +86,7 @@ icon: square-v
 
 В результате будут показаны только подзадачи выбранной задачи-родителя. Если выбранная задача не имеет дочерних задач, отобразится пустая таблица.
 
-<figure><img src="../../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1289).png" alt=""><figcaption></figcaption></figure>
 
 ### **Фильтр по ID или теме задачи**
 
@@ -96,7 +96,7 @@ icon: square-v
 
 Выберите фильтр **Тема**, оператор фильтрации (_содержит_, _не содержит_) и введите нужные слова, содержащиеся в теме задачи.
 
-<figure><img src="../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1290).png" alt=""><figcaption></figcaption></figure>
 
 ### **Фильтр для исполнителей**
 
@@ -106,7 +106,7 @@ icon: square-v
 * Фильтр **Исполнитель или его группа**: вернет задачи, назначенные этому пользователю и группу, к которой он принадлежит.
 * Фильтр **Роль исполнителя**: вернет задачи, в которых исполнитель имеет определенную роль в проекте.
 
-<figure><img src="../../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1291).png" alt=""><figcaption></figcaption></figure>
 
 ### **Фильтр по вложениям**
 
@@ -118,4 +118,4 @@ icon: square-v
 
 Выберите оператор фильтрации (_содержит_, _не содержит_) и введите искомый текст:
 
-<figure><img src="../../.gitbook/assets/image (713).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1292).png" alt=""><figcaption></figcaption></figure>

@@ -46,7 +46,7 @@ icon: square-v
 
 Если в проекте уже есть список, создайте новый, нажав "**Создать новый**":
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1260).png" alt=""><figcaption></figcaption></figure>
 
 ## Редактировать список задач
 
@@ -60,19 +60,25 @@ icon: square-v
 * [Создать копию](./#kopirovat-spisok-zadach);
 * [Удалить список](./#udalit-spisok-zadach).
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1261).png" alt=""><figcaption></figcaption></figure>
+
+Так же действия со списком доступны из контекстного меню списка:
+
+<figure><img src="../../.gitbook/assets/image (1259).png" alt=""><figcaption></figcaption></figure>
+
+В дополнительных настройках представлений находится возможность быстро сохранить текущие настройки как новый вид - функция "**Сохранить как**".
 
 ## Копировать список задач
 
 Выберите "**Создать копию**" в контекстном меню. Все настройки копируются, а новый список будет назван как исходный с добавлением слова "**Копия**" и появится в разделе **Мои приватные**. Название и приватность можно изменить.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1262).png" alt=""><figcaption></figcaption></figure>
 
 ## Удалить список задач
 
 Чтобы удалить список задач воспользуйтесь кнопкой "**Удалить**" в контекстном меню списка.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1263).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне подтвердите удаление:
 

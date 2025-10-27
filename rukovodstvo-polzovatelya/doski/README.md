@@ -21,7 +21,7 @@ icon: square-v
 
 В верхнем меню можно найти все доски проекта. Справа от названия доски указано их количество. Чтобы открыть список досок, нажмите на название или количество. В списке доски делятся на публичные и приватные. Для просмотра конкретной доски кликните на её название.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1245).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание доски
 
@@ -37,7 +37,7 @@ icon: square-v
 
 &#x20;Если в проекте уже есть доски, для создания новой используйте кнопку "**Создать новый**" в списке досок и выберите тип доски:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1246).png" alt=""><figcaption></figcaption></figure>
 
 После создания доски [добавьте на неё колонки](kolonki-na-doske.md).
 
@@ -53,13 +53,19 @@ icon: square-v
 * Создать [копию доски](./#kopirovanie-doski);
 * [Удалить доску](./#udalenie-doski).
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1247).png" alt=""><figcaption></figcaption></figure>
+
+Так же действия с доской доступны из контекстного меню на доске:
+
+<figure><img src="../../.gitbook/assets/image (1258).png" alt=""><figcaption></figcaption></figure>
+
+В дополнительных настройках представлений находится возможность быстро сохранить текущие настройки как новый вид - функция "**Сохранить как**".
 
 ## Копирование доски
 
 В контекстном меню выберите "**Создать копию**".
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1248).png" alt=""><figcaption></figcaption></figure>
 
 Все колонки исходной доски перенесутся на новую, а новый список будет назван как исходный с добавлением слова "**Копия**" и появится в разделе **Мои приватные**. Название и приватность можно изменить.
 
@@ -67,7 +73,7 @@ icon: square-v
 
 Чтобы удалить доску, выберите "**Удалить**" в контекстном меню доски.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне подтвердите действие.
 
