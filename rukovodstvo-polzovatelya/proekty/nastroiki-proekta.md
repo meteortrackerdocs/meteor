@@ -29,7 +29,7 @@ icon: square-v
 * [Модули](nastroiki-proekta.md#moduli-proekta) - включение или отключение дополнительных функций (например, «Диаграмма Ганта», «Ресурсное планирование»).
 * [Удалить проект](nastroiki-proekta.md#udalenie-proekta) - полное удаление проекта и всех связанных с ним данных. _Требует подтверждения._
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Информация о проекте
 
@@ -41,7 +41,7 @@ icon: square-v
 * признак "Публичный" - если он включен, то проект увидят неавторизованные пользователи и авторизованные пользователи, не добавленные в проект;
 * описание проекта.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для доступа неавторизованных пользователей к публичному проекту нужно в разделе [Аутентификация](../../rukovodstvo-administratora/autentifikaciya/obshie-nastroiki.md) включить признак "**Разрешить доступ без авторизации**". Дополнительно, система напомнит об этом.
@@ -53,7 +53,7 @@ icon: square-v
 
 Во вкладке "**Участники проекта**" можно увидеть список добавленных участников проекта и их роли. Так же, добавить нового участника. Инструкция по добавлению участников находится по [ссылке](../uchastniki-proekta.md#dobavlenie-uchastnika).
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Типы задач
 
@@ -69,7 +69,7 @@ icon: square-v
 
 Во вкладке "**Пользовательские поля**" указывайте те поля, которые должны использоваться в проекте.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Модули проекта
 

@@ -27,11 +27,11 @@ icon: square-v
 
 Создать можно любое количество досок, настроив их под свои нужды. Для этого нажмите на кнопку "**+ Вид**" и выберите нужный тип доски. Подробнее о типах досок можно ознакомиться в статье "[Доски задач](../../pristupaya-k-rabote/doski-zadach.md#tipy-dosok)".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне укажите название доски, выберите [тип доски](../../pristupaya-k-rabote/doski-zadach.md#tipy-dosok) и публичность. По умолчанию предлагается создать публичную доску - доступную всем участникам проекта.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Название и публичность можно будет изменить в любой момент с помощью [контекстного меню ](./#redaktirovanie-doski)доски.
 

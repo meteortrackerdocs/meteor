@@ -99,7 +99,7 @@ icon: square-v
 
 При создании проекта автоматически создается публичный список задач - страница "**Задачи проекта**", доступная всем участникам проекта. Цель данной страницы - предоставить доступ к списку задач проекта для каждого участника.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание подпроекта
 
@@ -109,7 +109,7 @@ icon: square-v
 
 Или воспользуйтесь аналогичной кнопкой "**+ Создать проект**" в контекстном меню проекта:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Откроется Мастер создания проектов с заполненным полем "**Родитель**":
 
