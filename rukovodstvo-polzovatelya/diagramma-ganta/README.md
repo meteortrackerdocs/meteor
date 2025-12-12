@@ -14,17 +14,17 @@ icon: square-v
 
 Все диаграммы Ганта находятся в верхнем меню проекта.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1298).png" alt=""><figcaption></figcaption></figure>
 
 Рядом с названием диаграммы указано количество диаграмм в проекте. Нажмите на название или число, чтобы увидеть список диаграмм, разделённых на публичные и приватные. Для просмотра конкретной диаграммы нажмите на её название.
 
-<figure><img src="../../.gitbook/assets/image (1264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1299).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание диаграммы
 
 Чтобы создать диаграмму, нажмите "**+ Вид**" и выберите "**Диаграмма Ганта**":
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне укажите название диаграммы и выберите публичность:
 
@@ -32,9 +32,9 @@ icon: square-v
 
 Эти данные можно будет изменить в любой момент с помощью [контекстного меню](./#redaktirovanie-diagrammy-ganta) списка.
 
-Если уже есть диаграммы, используйте кнопку "**Создать новый**" в списке диаграмм:
+Если уже есть диаграммы, используйте кнопку "**Создать**" в списке диаграмм:
 
-<figure><img src="../../.gitbook/assets/image (1265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1301).png" alt=""><figcaption></figcaption></figure>
 
 ## Редактирование диаграммы Ганта
 
@@ -48,11 +48,11 @@ icon: square-v
 * [Создать копию](./#kopirovanie-diagrammy);
 * [Удалить диаграмму Ганта](./#udalenie-diagrammy).
 
-<figure><img src="../../.gitbook/assets/image (1266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1302).png" alt=""><figcaption></figcaption></figure>
 
 Так же действия с диаграммой Ганта доступны из контекстного меню диаграммы:
 
-<figure><img src="../../.gitbook/assets/image (1267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1303).png" alt=""><figcaption></figcaption></figure>
 
 В дополнительных настройках представлений находится возможность быстро сохранить текущие настройки как новый вид - функция "**Сохранить как**".
 
@@ -60,13 +60,13 @@ icon: square-v
 
 Чтобы скопировать диаграмму, выберите "**Создать копию**" в контекстном меню диаграммы. В копию перенесутся все задачи и связи. Копия будет называться как исходная с добавлением слова "**Копия**" и появится в разделе **Мои приватные**. Название и приватность можно изменить.
 
-<figure><img src="../../.gitbook/assets/image (1268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1304).png" alt=""><figcaption></figcaption></figure>
 
 ## Удаление диаграммы
 
 Чтобы удалить диаграмму выберите "**Удалить**" в контекстном меню диаграммы.
 
-<figure><img src="../../.gitbook/assets/image (1269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1305).png" alt=""><figcaption></figcaption></figure>
 
 В появившемся окне подтвердите действие.
 
